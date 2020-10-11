@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De-Bug", "De-Bug\De-Bug.csproj", "{DE495086-654B-4975-9757-5B75089F5233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE495086-654B-4975-9757-5B75089F5233}.Debug|x86.ActiveCfg = Debug|x86
+		{DE495086-654B-4975-9757-5B75089F5233}.Debug|x86.Build.0 = Debug|x86
+		{DE495086-654B-4975-9757-5B75089F5233}.Release|x86.ActiveCfg = Release|x86
+		{DE495086-654B-4975-9757-5B75089F5233}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {575CEEF2-6CAF-4954-BCF5-866E89115E8F}
+	EndGlobalSection
+EndGlobal
